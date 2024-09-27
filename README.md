@@ -32,8 +32,8 @@ We use this categorical data encoding technique when the features are nominal(do
 
 # CODING AND OUTPUT:
   ```
-DEVELOPED BY : PRIYADHARSHINI RAJA
-REG NO: 212223230160
+DEVELOPED BY : YUVA SREE M
+REG NO: 212223230251
 ```
 ```
 import pandas as pd
@@ -202,7 +202,7 @@ plt.show()
 
 
 
-#RESULT:
+## RESULT:
   Thus the given data, Feature Encoding, Transformation process and save the data to a file was performed successfully.     
 
        
